@@ -1,1 +1,3 @@
-# shoes-app
+# shoeapp
+
+A new Flutter project.
